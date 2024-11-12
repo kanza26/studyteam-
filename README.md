@@ -3,4 +3,4 @@ KANZA FATIMA  SE-22011
 MEHVEEN FASIH SE-22012
 SALMAN AHMED  SE-22031
 
-learning Github with mehveen in lab
+learning Github with kanza in lab
